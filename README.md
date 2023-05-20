@@ -1,2 +1,2 @@
 # CBL_Libras
- Trabalho escolar
+ Trabalho escolar - repositório dedicado a construção de um site de conteúdos brasileiros de libras
